@@ -43,7 +43,7 @@ Shipping Insights: Impact of mode and delivery duration on performance.
 Segment Analysis: Breakdown by Consumer, Corporate, and Home Office customers.
 
 ## 📷 Dashboard Preview
-[Superstore Sales Dashbord.]()
+[Superstore Sales Dashbord.](https://github.com/Iyeose/Superstore-Sales-Analysis/blob/314a4cc5957966cb2acbddf81a9b7b2182239b55/Superstore%20Sales%20Dashbord.jpg)
 
 
 
