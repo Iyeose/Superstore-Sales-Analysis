@@ -45,7 +45,8 @@ Segment Analysis: Breakdown by Consumer, Corporate, and Home Office customers.
 ## 📷 Dashboard Preview
 ![Superstore Sales Dashbord.](https://github.com/Iyeose/Superstore-Sales-Analysis/blob/71a92258d876bb3334eea33586ff13a8a244e91a/Superstore%20Sales%202.pdf)
 
-![Superstore Sales Dashbord](https://github.com/user-attachments/assets/cf11031c-8e8d-484e-8a2e-c6d6633b9c18)
+![Superstore Sales Dashbord](https://github.com/Iyeose/Superstore-Sales-Analysis/blob/1722452836d56c9c020c31dd617ec86dcb7f0ad8/Superstore%20Sales%20Dashbord.jpg)
+
 
 
 🚀 Outcomes
